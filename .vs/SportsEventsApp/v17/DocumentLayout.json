@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\Lab1-SportsEventsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A90DB338-7E87-4163-84CF-7C4C774E8A30}|SportsEventsApp\\SportsEventsApp.csproj|c:\\users\\\u0435\u043B\u0435\u043D\u0430\\documents\\lab1-sportseventsapp\\sportseventsapp\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90DB338-7E87-4163-84CF-7C4C774E8A30}|SportsEventsApp\\SportsEventsApp.csproj|solutionrelative:sportseventsapp\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90DB338-7E87-4163-84CF-7C4C774E8A30}|SportsEventsApp\\SportsEventsApp.csproj|c:\\users\\\u0435\u043B\u0435\u043D\u0430\\documents\\lab1-sportseventsapp\\sportseventsapp\\repositories\\athleterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90DB338-7E87-4163-84CF-7C4C774E8A30}|SportsEventsApp\\SportsEventsApp.csproj|solutionrelative:sportseventsapp\\repositories\\athleterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90DB338-7E87-4163-84CF-7C4C774E8A30}|SportsEventsApp\\SportsEventsApp.csproj|c:\\users\\\u0435\u043B\u0435\u043D\u0430\\documents\\lab1-sportseventsapp\\sportseventsapp\\models\\athlete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90DB338-7E87-4163-84CF-7C4C774E8A30}|SportsEventsApp\\SportsEventsApp.csproj|solutionrelative:sportseventsapp\\models\\athlete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90DB338-7E87-4163-84CF-7C4C774E8A30}|SportsEventsApp\\SportsEventsApp.csproj|c:\\users\\\u0435\u043B\u0435\u043D\u0430\\documents\\lab1-sportseventsapp\\sportseventsapp\\repositories\\iathleterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90DB338-7E87-4163-84CF-7C4C774E8A30}|SportsEventsApp\\SportsEventsApp.csproj|solutionrelative:sportseventsapp\\repositories\\iathleterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90DB338-7E87-4163-84CF-7C4C774E8A30}|SportsEventsApp\\SportsEventsApp.csproj|c:\\users\\\u0435\u043B\u0435\u043D\u0430\\documents\\lab1-sportseventsapp\\sportseventsapp\\repositories\\iresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90DB338-7E87-4163-84CF-7C4C774E8A30}|SportsEventsApp\\SportsEventsApp.csproj|solutionrelative:sportseventsapp\\repositories\\iresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90DB338-7E87-4163-84CF-7C4C774E8A30}|SportsEventsApp\\SportsEventsApp.csproj|c:\\users\\\u0435\u043B\u0435\u043D\u0430\\documents\\lab1-sportseventsapp\\sportseventsapp\\repositories\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90DB338-7E87-4163-84CF-7C4C774E8A30}|SportsEventsApp\\SportsEventsApp.csproj|solutionrelative:sportseventsapp\\repositories\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90DB338-7E87-4163-84CF-7C4C774E8A30}|SportsEventsApp\\SportsEventsApp.csproj|c:\\users\\\u0435\u043B\u0435\u043D\u0430\\documents\\lab1-sportseventsapp\\sportseventsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90DB338-7E87-4163-84CF-7C4C774E8A30}|SportsEventsApp\\SportsEventsApp.csproj|solutionrelative:sportseventsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90DB338-7E87-4163-84CF-7C4C774E8A30}|SportsEventsApp\\SportsEventsApp.csproj|c:\\users\\\u0435\u043B\u0435\u043D\u0430\\documents\\lab1-sportseventsapp\\sportseventsapp\\repositories\\resultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90DB338-7E87-4163-84CF-7C4C774E8A30}|SportsEventsApp\\SportsEventsApp.csproj|solutionrelative:sportseventsapp\\repositories\\resultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90DB338-7E87-4163-84CF-7C4C774E8A30}|SportsEventsApp\\SportsEventsApp.csproj|c:\\users\\\u0435\u043B\u0435\u043D\u0430\\documents\\lab1-sportseventsapp\\sportseventsapp\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90DB338-7E87-4163-84CF-7C4C774E8A30}|SportsEventsApp\\SportsEventsApp.csproj|solutionrelative:sportseventsapp\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90DB338-7E87-4163-84CF-7C4C774E8A30}|SportsEventsApp\\SportsEventsApp.csproj|c:\\users\\\u0435\u043B\u0435\u043D\u0430\\documents\\lab1-sportseventsapp\\sportseventsapp\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90DB338-7E87-4163-84CF-7C4C774E8A30}|SportsEventsApp\\SportsEventsApp.csproj|solutionrelative:sportseventsapp\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\Lab1-SportsEventsApp\\SportsEventsApp\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "SportsEventsApp\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\Lab1-SportsEventsApp\\SportsEventsApp\\Models\\Event.cs",
+              "RelativeToolTip": "SportsEventsApp\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T21:20:21.908Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResultRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\Lab1-SportsEventsApp\\SportsEventsApp\\Repositories\\ResultRepository.cs",
+              "RelativeDocumentMoniker": "SportsEventsApp\\Repositories\\ResultRepository.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\Lab1-SportsEventsApp\\SportsEventsApp\\Repositories\\ResultRepository.cs",
+              "RelativeToolTip": "SportsEventsApp\\Repositories\\ResultRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T21:23:10.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\Lab1-SportsEventsApp\\SportsEventsApp\\Program.cs",
+              "RelativeDocumentMoniker": "SportsEventsApp\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\Lab1-SportsEventsApp\\SportsEventsApp\\Program.cs",
+              "RelativeToolTip": "SportsEventsApp\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T19:18:46.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAthleteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\Lab1-SportsEventsApp\\SportsEventsApp\\Repositories\\IAthleteRepository.cs",
+              "RelativeDocumentMoniker": "SportsEventsApp\\Repositories\\IAthleteRepository.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\Lab1-SportsEventsApp\\SportsEventsApp\\Repositories\\IAthleteRepository.cs",
+              "RelativeToolTip": "SportsEventsApp\\Repositories\\IAthleteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:27:50.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\Lab1-SportsEventsApp\\SportsEventsApp\\Repositories\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "SportsEventsApp\\Repositories\\IEventRepository.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\Lab1-SportsEventsApp\\SportsEventsApp\\Repositories\\IEventRepository.cs",
+              "RelativeToolTip": "SportsEventsApp\\Repositories\\IEventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:28:04.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IResultRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\Lab1-SportsEventsApp\\SportsEventsApp\\Repositories\\IResultRepository.cs",
+              "RelativeDocumentMoniker": "SportsEventsApp\\Repositories\\IResultRepository.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\Lab1-SportsEventsApp\\SportsEventsApp\\Repositories\\IResultRepository.cs",
+              "RelativeToolTip": "SportsEventsApp\\Repositories\\IResultRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T22:28:24.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Athlete.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\Lab1-SportsEventsApp\\SportsEventsApp\\Models\\Athlete.cs",
+              "RelativeDocumentMoniker": "SportsEventsApp\\Models\\Athlete.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\Lab1-SportsEventsApp\\SportsEventsApp\\Models\\Athlete.cs",
+              "RelativeToolTip": "SportsEventsApp\\Models\\Athlete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T21:19:41.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\Lab1-SportsEventsApp\\SportsEventsApp\\Repositories\\EventRepository.cs",
+              "RelativeDocumentMoniker": "SportsEventsApp\\Repositories\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\Lab1-SportsEventsApp\\SportsEventsApp\\Repositories\\EventRepository.cs",
+              "RelativeToolTip": "SportsEventsApp\\Repositories\\EventRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T21:22:52.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AthleteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\Lab1-SportsEventsApp\\SportsEventsApp\\Repositories\\AthleteRepository.cs",
+              "RelativeDocumentMoniker": "SportsEventsApp\\Repositories\\AthleteRepository.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\Lab1-SportsEventsApp\\SportsEventsApp\\Repositories\\AthleteRepository.cs",
+              "RelativeToolTip": "SportsEventsApp\\Repositories\\AthleteRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T21:38:42.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\Lab1-SportsEventsApp\\SportsEventsApp\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "SportsEventsApp\\Models\\Result.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043B\u0435\u043D\u0430\\Documents\\Lab1-SportsEventsApp\\SportsEventsApp\\Models\\Result.cs",
+              "RelativeToolTip": "SportsEventsApp\\Models\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T21:20:41.936Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
